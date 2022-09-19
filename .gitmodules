@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "lionessR"]
-	path = lionessR
-	url = https://github.com/mararie/lionessr
-	shallow = true
-	registered = true
